@@ -1,0 +1,3 @@
+FORK merupakan sebuah cara kita untuk menduplikat repository punya orang lain, agar dicopy kedalam akun Github kita.
+
+~Sandhika Galih WPU
