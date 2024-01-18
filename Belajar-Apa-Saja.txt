@@ -2,8 +2,9 @@
 - JavaScript
  •JavaScript Lanjutan
  •Framework JavaScript
-  *Vue
   *Angular
+  *React
+  *Vue
 - PHP
  •OOP PHP
  •PHP Framework
