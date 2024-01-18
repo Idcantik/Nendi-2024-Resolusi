@@ -1,9 +1,9 @@
 *** NENDI AKAN BELAJAR INI ***
 - JavaScript
- •JavaScript Dasar
- •JavaScript DOM
  •JavaScript Lanjutan
  •Framework JavaScript
+  *Angular
+  *React
 - PHP
  •PHP Dasar
  •OOP PHP
