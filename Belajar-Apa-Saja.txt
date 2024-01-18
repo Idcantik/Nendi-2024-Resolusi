@@ -1,0 +1,6 @@
+*** NENDI AKAN BELAJAR INI ***
+- JavaScript
+- PHP
+- API
+- Git & Github
+- Bootstrap 5
