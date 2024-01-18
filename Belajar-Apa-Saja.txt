@@ -4,9 +4,12 @@
  •Framework JavaScript
   *Angular
   *React
+  *Vue
 - PHP
- •PHP Dasar
  •OOP PHP
+ •PHP Framework
+  *Laravel
 - API
+ •Rest Api
 - Git & Github
 - Bootstrap 5
