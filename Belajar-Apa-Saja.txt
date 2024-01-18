@@ -1,12 +1,14 @@
 *** NENDI AKAN BELAJAR INI ***
 - JavaScript
- •JavaScript Dasar
- •JavaScript DOM
  •JavaScript Lanjutan
  •Framework JavaScript
+  *Vue
+  *Angular
 - PHP
- •PHP Dasar
  •OOP PHP
+ •PHP Framework
+  *Laravel
 - API
+ •Rest Api
 - Git & Github
 - Bootstrap 5
